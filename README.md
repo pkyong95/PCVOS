@@ -1,11 +1,11 @@
 # Per-Clip Video Object Segmentation
 
-**by [Kwanyong Park](https://pkyong95.github.io/), Sanghyun Woo, Seoung Wug Oh, In So Kweon, and Joon-Young Lee**
+**by [Kwanyong Park](https://pkyong95.github.io/), [Sanghyun Woo](https://sites.google.com/view/sanghyunwoo/), [Seoung Wug Oh](https://sites.google.com/view/seoungwugoh), [In So Kweon](https://scholar.google.com/citations?user=XA8EOlEAAAAJ&hl=en), and [Joon-Young Lee](https://joonyoung-cv.github.io/)**
 
 CVPR 2022
 
+**[[arXiv]]()**
 **[[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Per-Clip_Video_Object_Segmentation_CVPR_2022_paper.pdf)**
-**[[Open Access]](https://openaccess.thecvf.com/content/CVPR2022/html/Park_Per-Clip_Video_Object_Segmentation_CVPR_2022_paper.html)**
 **[[YouTube]](https://youtu.be/6QATHDwrUx0)**
 **[[Poster]](https://drive.google.com/file/d/1bqr-HIJUJY7Z7R8rD6IhDPyL9Olc0JjY/view?usp=sharing)**
 
